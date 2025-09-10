@@ -1,0 +1,11 @@
+# Ignore ALL node_modules folders anywhere
+**/node_modules/
+
+# Ignore ONLY the backend .env file
+/backend/.env
+
+# Ignore OS and editor files (optional but recommended)
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
